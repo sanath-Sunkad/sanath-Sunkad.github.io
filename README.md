@@ -1,1 +1,0 @@
-# sanath-Sunkad.github.io
