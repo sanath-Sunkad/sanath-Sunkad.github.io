@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Project1",
+      "description":"Description",
+      "subtitle": "Fullstack",
+      "image": "assets/images/fullstack.jpg" 
+    },
+    {
+      "title": "Project2",
+      "description":"Description",
+      "subtitle": "Data Science",
+      "image": "assets/images/datascience.jpg"
+    },
+    {
+      "title": "Project3",
+      "description":"Description",
+      "subtitle": "Data Engineering",
+      "image": "assets/images/dataengineering.png"
+    },
+    {
+      "title": "Project4",
+      "description":"Description",
+      "subtitle": "Data Visulization",
+      "image": "assets/images/datavisulaiation.jpg"
+    }
+  ]
